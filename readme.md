@@ -2,5 +2,7 @@
 * Funcionalidade 1
 * Funcionalidade 2
 * Funcionalidade 3
-* Aqui é Corinthians
-* Seu time é horrível 
+* Funcionalidade 4
+* Funcionalidade 5
+* Funcionalidade 6
+* Funcionalidade 7
